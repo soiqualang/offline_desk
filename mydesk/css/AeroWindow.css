@@ -405,6 +405,7 @@ DEMO CONTENT
 
 #DesktopIcons {
   width: 350px;
+  margin-top: 20px;
 }
 #DesktopIcons .DesktopIconContainer {
   width: 114px;
